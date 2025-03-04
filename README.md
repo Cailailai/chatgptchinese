@@ -1,6 +1,8 @@
-# ChatGPT 中文版：国内直连指南（支持GPT-4、4o、o1、o3 和 DeepSeek R1，无需翻墙）【2月最新更新】
+# ChatGPT 中文版：国内直连指南（支持GPT-4、4o、o1、o3 和 DeepSeek R1，无需翻墙）【3月最新更新】
 
-> 更新：2025/02/23
+> 更新：2025/03/05
+>
+> 作者：vbosoxo
 
 **全面体验 ChatGPT 中文版**，无需翻墙，支持 GPT-4、4o、o1、o3 和 DeepSeek R1 及中文多功能应用！  
 
